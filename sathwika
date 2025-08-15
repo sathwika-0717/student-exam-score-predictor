@@ -1,0 +1,20 @@
+Student Exam Score Predictor 
+
+This project predicts a student’s exam score based on the number of study hours using Linear Regression in Python.
+It analyzes past data to find a relationship between study time and performance, then uses that model to estimate future scores.
+
+Technologies Used:
+
+Python
+
+Pandas, NumPy, Matplotlib
+
+scikit-learn (Linear Regression)
+
+Features:
+
+Predicts scores from hours studied
+
+Visualizes the data and regression line
+
+Beginner-friendly ML example
